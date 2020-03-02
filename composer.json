@@ -1,0 +1,12 @@
+{
+    "name": "leejiale/forex_scraper",
+    "authors": [
+        {
+            "name": "LeeJiaLe",
+            "email": "36293056+LeeJiaLe@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "caophihung94/php-simple-html-dom-parser": "^1.7"
+    }
+}
